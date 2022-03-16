@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\APICurso3\APICurso3\bin\Debug\netcoreapp2.1\APICurso3.deps.json
+C:\Users\lucas\source\repos\APICurso3\APICurso3\bin\Debug\netcoreapp2.1\APICurso3.runtimeconfig.json
+C:\Users\lucas\source\repos\APICurso3\APICurso3\bin\Debug\netcoreapp2.1\APICurso3.runtimeconfig.dev.json
+C:\Users\lucas\source\repos\APICurso3\APICurso3\bin\Debug\netcoreapp2.1\APICurso3.dll
+C:\Users\lucas\source\repos\APICurso3\APICurso3\bin\Debug\netcoreapp2.1\APICurso3.pdb
+C:\Users\lucas\source\repos\APICurso3\APICurso3\obj\Debug\netcoreapp2.1\APICurso3.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\APICurso3\APICurso3\obj\Debug\netcoreapp2.1\APICurso3.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\APICurso3\APICurso3\obj\Debug\netcoreapp2.1\APICurso3.RazorAssemblyInfo.cache
+C:\Users\lucas\source\repos\APICurso3\APICurso3\obj\Debug\netcoreapp2.1\APICurso3.RazorAssemblyInfo.cs
+C:\Users\lucas\source\repos\APICurso3\APICurso3\obj\Debug\netcoreapp2.1\APICurso3.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\APICurso3\APICurso3\obj\Debug\netcoreapp2.1\APICurso3.AssemblyInfo.cs
+C:\Users\lucas\source\repos\APICurso3\APICurso3\obj\Debug\netcoreapp2.1\APICurso3.RazorTargetAssemblyInfo.cache
+C:\Users\lucas\source\repos\APICurso3\APICurso3\obj\Debug\netcoreapp2.1\APICurso3.dll
+C:\Users\lucas\source\repos\APICurso3\APICurso3\obj\Debug\netcoreapp2.1\APICurso3.pdb
